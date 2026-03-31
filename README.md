@@ -20,4 +20,3 @@ Rust · Python · Bash · Linux · Git · Fedora
 ---
 *When I'm not at the terminal I'm probably reading seinen manga or listening to metal. Open to student roles.*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman11x)](https://github.com/roman11x/github-readme-stats)
